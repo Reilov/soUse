@@ -1,0 +1,16 @@
+
+.pentagon svg {
+    width: 100%;
+    height: 100%;
+}
+
+.pentagon image {
+    transition: transform 0.3s ease;
+    transform-origin: center center;
+}
+
+.pentagon:hover image {
+    transform: scale(1.1);
+}
+
+
